@@ -1,3 +1,6 @@
 [submodule "halloween-website"]
 	path = halloween-website
 	url = https://github.com/pmiller13/halloween-website.git
+[submodule "neural-video-generator"]
+	path = neural-video-generator
+	url = https://github.com/alexbooth/neural-video-generator
