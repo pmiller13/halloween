@@ -4,3 +4,6 @@
 [submodule "neural-video-generator"]
 	path = neural-video-generator
 	url = https://github.com/alexbooth/neural-video-generator
+[submodule "halloween-wb3"]
+	path = halloween-wb3
+	url = https://github.com/alexbooth/halloween-wb3
